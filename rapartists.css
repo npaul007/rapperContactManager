@@ -1,0 +1,38 @@
+body{
+   font-family: arial;
+   background: #b3d9ff;
+}
+
+label{
+   display: block;
+}
+
+input{
+   margin: 10px;
+   display: block;
+}
+
+.container{
+   padding: 30px;
+}
+
+.center-text{
+   text-align: center;
+}
+
+img{
+   display: block;
+   margin-right: auto;
+   margin-left: auto;
+}
+
+#card{
+   background: white;
+   margin-top: 15px;
+   margin: 20px;
+   border-radius: 5px;
+   padding: 15px;
+   box-shadow: 1px 1px 1px gray;
+   width: 300px;
+   display: inline-block;
+}
