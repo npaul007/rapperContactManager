@@ -9,7 +9,9 @@ How to use it:
 4. Click the open in browser button to view the xml doc in the browser
 
 
-How it works:  I am using java xml parsing libraries in order to read and modify
+How it works:  
+
+I am using java xml parsing libraries in order to read and modify
 the rapartists.xml file. I then manipulate that data through a java
 swing GUI. The xml file is then formatted to be viewed in
 alphabetical order by rapper name through the use of an XLST style sheet
