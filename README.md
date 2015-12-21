@@ -2,11 +2,12 @@
 A contact manager built for producers, artists and record company managers who need to contact other rap artists.
 
 ##How to use it:
-
-  1. Open RapArtistContactManagerGenerator.jar
-  2. Click the add rapper button to add a new rapper
-  3. Click the remove rapper to add a selected rapper
-  4. Click the open in browser button to view the xml doc in the browser
+  1. Clone the rapperContactManager repo
+  2. Once downloaded, open the folder and open the RapArtistContactManagerGenerator.jar file
+  3. Click the add rapper button to add a new rapper
+  4. Click the remove rapper to add a selected rapper
+  5. Use the arrows to cycle through the rappers in the registry
+  6. Click the open in browser button to view the xml doc in the browser
 
 
 ##How it works:  
