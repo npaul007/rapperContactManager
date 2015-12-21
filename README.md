@@ -1,17 +1,12 @@
 # rapperContactManager
 A contact manager built for producers, artists and record company managers who need to contact other rap artists.
 
-The Rapper Contact Manager Generator is a 
-Java GUI created in order to help producers 
-and studio owners stay in contact with rappers
-who they want to call in for features in rap songs.
-
 How to use it:
 
-1) Open RapArtistContactManagerGenerator.jar
-2) Click the add rapper button to add a new rapper
-3) Click the remove rapper to add a selected rapper
-4)Click the open in browser button to view the xml doc in the browser
+-Open RapArtistContactManagerGenerator.jar
+-Click the add rapper button to add a new rapper
+-Click the remove rapper to add a selected rapper
+-Click the open in browser button to view the xml doc in the browser
 
 
 How it works:
