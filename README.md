@@ -3,10 +3,10 @@ A contact manager built for producers, artists and record company managers who n
 
 How to use it:
 
--Open RapArtistContactManagerGenerator.jar
--Click the add rapper button to add a new rapper
--Click the remove rapper to add a selected rapper
--Click the open in browser button to view the xml doc in the browser
+1. Open RapArtistContactManagerGenerator.jar
+2. Click the add rapper button to add a new rapper
+3. Click the remove rapper to add a selected rapper
+4. Click the open in browser button to view the xml doc in the browser
 
 
 How it works:
